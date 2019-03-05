@@ -21,7 +21,7 @@ begin
    xorxy <= x xor y after retardoxor;
 	s <= cen xor xorxy after retardoxor;
 	andxy <= x and y after retardoand;
-	andxcen <= x and cen after retardoand;
-	andycen <= y and cen after retardoand;
-	csal <= andxy or andxcen or andycen after retardoor;
+	andxcen <= xorxy and cen after retardoand;
+	csal <= andxy or andxcen after retardoor;
+	
 end flujodatos;

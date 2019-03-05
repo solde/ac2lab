@@ -17,3 +17,252 @@
 # -- Compiling entity s1bit_ret
 # -- Compiling architecture flujodatos of s1bit_ret
 # 
+vsim rtl_work.s1bit_ret
+# vsim rtl_work.s1bit_ret 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading rtl_work.s1bit_ret(flujodatos)
+add list  \
+sim:/s1bit_ret/x \
+sim:/s1bit_ret/y \
+sim:/s1bit_ret/cen \
+sim:/s1bit_ret/s \
+sim:/s1bit_ret/csal
+add wave -position insertpoint  \
+sim:/s1bit_ret/x \
+sim:/s1bit_ret/y \
+sim:/s1bit_ret/cen \
+sim:/s1bit_ret/s \
+sim:/s1bit_ret/csal
+o ./estimulos.dod0 ./
+# ambiguous command name "o": onElabError onbreak onerror open openlog
+do ./estimulos.dod0 ./
+# Cannot open macro file: ./estimulos.dod0
+do ./estimulos.do
+restart
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+force -freeze sim:/s1bit_ret/x 0 0
+run -all
+do ./estimulos.do
+restart
+do ./estimulos.do
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+restart
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+restart
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+restart
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+restart
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+restart
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+
+restart
+force -freeze sim:/s1bit_ret/x 0 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+restart
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 0 0
+force -freeze sim:/s1bit_ret/cen 0 0
+
+run -all
+
+
+
+force -freeze sim:/s1bit_ret/x 1 0
+force -freeze sim:/s1bit_ret/y 1 0
+force -freeze sim:/s1bit_ret/cen 1 0
+
+run -all
+
+
+
