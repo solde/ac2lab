@@ -16,35 +16,62 @@
 # -- Loading package std_logic_1164
 # -- Compiling entity s1bit
 # -- Compiling architecture flujodatos of s1bit
-# vcom -93 -work work {/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd}
+# vcom -93 -work work {/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd}
 # Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 # -- Loading package STANDARD
 # -- Loading package TEXTIO
 # -- Loading package std_logic_1164
-# -- Loading package NUMERIC_STD
 # -- Compiling entity S4bits
-# -- Compiling architecture comportamiento of S4bits
-# -- Compiling architecture structural of S4bits
-# -- Loading entity S4bits
+# -- Compiling architecture estructural of S4bits
 # 
 vsim rtl_work.s4bits
 # vsim rtl_work.s4bits 
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading ieee.numeric_std(body)
-# Loading rtl_work.s4bits(structural)
+# Loading rtl_work.s4bits(estructural)
 # Loading rtl_work.s1bit(flujodatos)
 add wave -position insertpoint  \
 sim:/s4bits/A \
 sim:/s4bits/B \
 sim:/s4bits/cen \
-sim:/s4bits/SUM
-add wave -position insertpoint  \
+sim:/s4bits/SUM \
 sim:/s4bits/csal
 add list \
+sim:/s4bits/A \
+sim:/s4bits/B \
+sim:/s4bits/cen \
+sim:/s4bits/SUM \
 sim:/s4bits/csal 
-force -freeze sim:/s4bits/A 0001 0
-force -freeze sim:/s4bits/B 0001 0
+noforce sim:/s4bits/B
+force -freeze sim:/s4bits/B 1101 0
+force -freeze sim:/s4bits/A 0011 0
+force -freeze sim:/s4bits/cen 1 0
+run -all
+run
+restart
+force -freeze sim:/s4bits/A 1010 0
+force -freeze sim:/s4bits/B 1111 0
+force -freeze sim:/s4bits/cen 1 0
+run -all
+run
+do ../../../PRUEBAS
+# Cannot open macro file: ../../../PRUEBAS
+do ../../../PRUEBAS/estimulos_retardo.do
+restart
+do ../../../PRUEBAS/estimulos_retardo.do
+run -all
+run
+restart
+force -freeze sim:/s4bits/A 1111 0
+force -freeze sim:/s4bits/B 0000 0
+force -freeze sim:/s4bits/cen 1 0
+run -all
+restart
+force -freeze sim:/s4bits/A 1111 0
+force -freeze sim:/s4bits/B 0000 0
 force -freeze sim:/s4bits/cen 0 0
+run -all
+run
+force -freeze sim:/s4bits/cen 1 0
 run -all

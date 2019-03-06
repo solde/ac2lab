@@ -15,7 +15,7 @@ L9
 V@JNN>7U`jY@9:?[N>7M>a3
 Z7 OV;C;10.1d;51
 31
-Z8 !s108 1551858459.765306
+Z8 !s108 1551859611.161265
 Z9 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
 Z10 !s107 /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
 Z11 o-93 -work work -O0
@@ -39,56 +39,37 @@ R12
 !s100 9C6;<]@ERVgdOhGH^z84>0
 !i10b 1
 Es4bits
-Z13 w1551858354
-Z14 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z13 w1551859551
 R2
 R3
 R4
-Z15 8/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd
-Z16 F/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd
+Z14 8/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+Z15 F/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
 l0
-L9
-V;<@ZJSBnJgkAVNHFjm`og3
-!s100 QaPX?>:9kgRB2XM]Lkdi]1
+L13
+V_d0CLzdC;S@UzYVHUNzoD1
+!s100 @Cc=49oo21VPKJ0O^`jiX3
 R7
 31
 !i10b 1
-Z17 !s108 1551858459.863593
-Z18 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd|
-Z19 !s107 /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd|
+Z16 !s108 1551859611.253430
+Z17 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
+Z18 !s107 /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
 R11
 R12
-Astructural
-R14
+Aestructural
 R2
 R3
-Z20 DEx4 work 6 s4bits 0 22 ;<@ZJSBnJgkAVNHFjm`og3
-l36
-L30
-V7YjIS]F1l?]FQodTgz;To1
-!s100 Ag][S5R@e>Fk3l[g:AOlj1
+DEx4 work 6 s4bits 0 22 _d0CLzdC;S@UzYVHUNzoD1
+l31
+L25
+VCJM74F6XRRF;UB=fdOC`20
+!s100 :T=R`a^cm[>44aa32:W?i2
 R7
 31
 !i10b 1
+R16
 R17
 R18
-R19
-R11
-R12
-Acomportamiento
-R14
-R2
-R3
-R20
-l23
-L19
-V7S`K5W:i3l[mRa[M3VkZ=2
-!s100 z;RTO0>]kTMX]YNMiRM2d3
-R7
-31
-!i10b 1
-R17
-R18
-R19
 R11
 R12
