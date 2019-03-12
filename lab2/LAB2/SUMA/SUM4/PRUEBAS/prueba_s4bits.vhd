@@ -10,22 +10,24 @@ use work.all;
 entity prueba_S4bits is 		
 
 end prueba_S4bits;		
-		
-architecture prueba of prueba_S4bits is		
-		
-component S4bits is 		
-generic(ret_xor: time := 15 ns; ret_and: time := 10 ns; ret_or: time := 10 ns);
-port (A: in std_logic_vector(3 downto 0);
-	B: in std_logic_vector(3 downto 0);
-	cen: in	std_logic;
-	SUM: out std_logic_vector(3 downto 0);
-	csal: out std_logic);
-end component;				
 
--- senyales	
+architecture comp of prueba_S4bits is
+signal A, B : std_logic_vector(3 downto 0);
+signal cen: std_logic;
+begin
 
-begin	
--- instanciacion y estimulos
 
-end prueba;		
+prueba_s: process
 
+begin
+a <= "UUUU", "1111" after 200ns;
+b <= "UUUU", "0000" after 200ns;
+cen <= 'U', '0' after 200ns;
+wait for 200 ns;
+a <= "1111";
+b <= "0000";
+cen <= '1';
+wait for 200 ns;
+wait;
+end process;
+end comp;

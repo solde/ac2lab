@@ -24,54 +24,27 @@
 # -- Compiling entity S4bits
 # -- Compiling architecture estructural of S4bits
 # 
-vsim rtl_work.s4bits
-# vsim rtl_work.s4bits 
+# vcom -93 -work work {/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/PRUEBAS/prueba_s4bits.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity prueba_S4bits
+# -- Compiling architecture comp of prueba_S4bits
+# ** Warning: [4] /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/PRUEBAS/prueba_s4bits.vhd(23): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/PRUEBAS/prueba_s4bits.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/PRUEBAS/prueba_s4bits.vhd(25): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L rtl_work -L work -voptargs="+acc"  prueba_S4bits
+# vsim -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L rtl_work -L work -voptargs=\"+acc\" -t 1ps prueba_S4bits 
 # Loading std.standard
 # Loading std.textio(body)
 # Loading ieee.std_logic_1164(body)
-# Loading rtl_work.s4bits(estructural)
-# Loading rtl_work.s1bit(flujodatos)
-add wave -position insertpoint  \
-sim:/s4bits/A \
-sim:/s4bits/B \
-sim:/s4bits/cen \
-sim:/s4bits/SUM \
-sim:/s4bits/csal
-add list \
-sim:/s4bits/A \
-sim:/s4bits/B \
-sim:/s4bits/cen \
-sim:/s4bits/SUM \
-sim:/s4bits/csal 
-noforce sim:/s4bits/B
-force -freeze sim:/s4bits/B 1101 0
-force -freeze sim:/s4bits/A 0011 0
-force -freeze sim:/s4bits/cen 1 0
-run -all
-run
-restart
-force -freeze sim:/s4bits/A 1010 0
-force -freeze sim:/s4bits/B 1111 0
-force -freeze sim:/s4bits/cen 1 0
-run -all
-run
-do ../../../PRUEBAS
-# Cannot open macro file: ../../../PRUEBAS
-do ../../../PRUEBAS/estimulos_retardo.do
-restart
-do ../../../PRUEBAS/estimulos_retardo.do
-run -all
-run
-restart
-force -freeze sim:/s4bits/A 1111 0
-force -freeze sim:/s4bits/B 0000 0
-force -freeze sim:/s4bits/cen 1 0
-run -all
-restart
-force -freeze sim:/s4bits/A 1111 0
-force -freeze sim:/s4bits/B 0000 0
-force -freeze sim:/s4bits/cen 0 0
-run -all
-run
-force -freeze sim:/s4bits/cen 1 0
-run -all
+# Loading work.prueba_s4bits(comp)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
