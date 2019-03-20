@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/LAB2/SUMA/SUM4/QUARTUS/simulation/modelsim
+Eprueba_s4bits
+Z1 w1539565707
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/user/Desktop/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd
+Z5 FC:/Users/user/Desktop/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd
+l0
+L10
+VS`z:Z0ZHWSE;nJ8Odkf2<0
+!s100 HSJAi_a1Of=Une_1LBVGD3
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1539565833
+!i10b 1
+Z8 !s108 1539565833.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd|
+Z10 !s107 C:/Users/user/Desktop/LAB2/SUMA/SUM4/QUARTUS/../PRUEBAS/prueba_s4bits.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aprueba
+R2
+R3
+Z13 DEx4 work 13 prueba_s4bits 0 22 S`z:Z0ZHWSE;nJ8Odkf2<0
+l29
+L14
+V_?hI;m5T]OG]4MGKj_V_M1
+!s100 9FoITARfHkQjPh>4lc<cd1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Es1bit
+Z14 w1534675090
+R2
+R3
+R0
+Z15 8c:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd
+Z16 Fc:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd
+l0
+L9
+Ve4K9bZZ4DFPK]zkLl^TR?2
+!s100 T0GWTIb`8V[GL60o[KgGP0
+R6
+31
+R7
+!i10b 1
+Z17 !s108 1539565832.000000
+Z18 !s90 -reportprogress|300|-93|-work|work|c:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd|
+Z19 !s107 c:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd|
+!i113 1
+R11
+R12
+Aflujodatos
+R2
+R3
+DEx4 work 5 s1bit 0 22 e4K9bZZ4DFPK]zkLl^TR?2
+l24
+L20
+VmBh]bToHP@Uga0oezLl3E3
+!s100 i6V?IMUnKObhXV1^Z^_9:1
+R6
+31
+R7
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Es4bits
+Z20 w1539565801
+R2
+R3
+R0
+Z21 8C:/Users/user/Desktop/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+Z22 FC:/Users/user/Desktop/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+l0
+L13
+VUWl[M2?AOfTV47E7>k4Qz2
+!s100 fOaJ1P3MjP54DEVdReb=F1
+R6
+31
+R7
+!i10b 1
+R8
+Z23 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
+Z24 !s107 C:/Users/user/Desktop/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
+!i113 1
+R11
+R12
+Aestructural
+R2
+R3
+DEx4 work 6 s4bits 0 22 UWl[M2?AOfTV47E7>k4Qz2
+l32
+L25
+VMOC1iK;^3IjQL:g]ZXFK13
+!s100 C3;kc4W<fCon@HoI5?N[Y1
+R6
+31
+R7
+!i10b 1
+R8
+R23
+R24
+!i113 1
+R11
+R12

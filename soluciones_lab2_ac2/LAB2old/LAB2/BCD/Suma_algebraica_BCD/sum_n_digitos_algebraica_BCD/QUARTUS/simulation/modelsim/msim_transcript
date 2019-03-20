@@ -1,0 +1,270 @@
+# Reading C:/intelFPGA_lite/17.1/modelsim_ase/tcl/vsim/pref.tcl
+# do sAlgeBCD_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/17.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling package retardos_bcd_pkg
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling package cte_tipos_bcd_pkg
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/componentes_sum_algebraica_pkg/componentes_sum_algebraica_pkg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/componentes_sum_algebraica_pkg/componentes_sum_algebraica_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Compiling package componentes_sum_algebraica_pkg
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/componentes_enteros_pkg/componentes_snBCD_pkg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/componentes_enteros_pkg/componentes_snBCD_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Compiling package componentes_snBCD_pkg
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/componentes_sum_bcd_pkg/componentes_s1BCD_pkg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/componentes_sum_bcd_pkg/componentes_s1BCD_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Compiling package componentes_s1BCD_pkg
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/componentes_dig_BCD_pkg/componentes_digito_bcd_pkg.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/componentes_dig_BCD_pkg/componentes_digito_bcd_pkg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Compiling package componentes_digito_bcd_pkg
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9_old.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9_old.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package retardos_bcd_pkg
+# -- Compiling entity mayor9
+# -- Compiling architecture comportamiento of mayor9
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/CODIGO/compl9.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/CODIGO/compl9.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package retardos_bcd_pkg
+# -- Compiling entity compl9
+# -- Compiling architecture comportamiento of compl9
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/sumador_binario/CODIGO/snbits.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/sumador_binario/CODIGO/snbits.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package retardos_bcd_pkg
+# -- Compiling entity snbits
+# -- Compiling architecture compor of snbits
+# End time: 01:38:37 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/s1bit/CODIGO/s1bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:37 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/s1bit/CODIGO/s1bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package retardos_bcd_pkg
+# -- Compiling entity s1bit
+# -- Compiling architecture funcional of s1bit
+# End time: 01:38:38 on Oct 15,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/sum_n_digitos_algebraica_BCD/CODIGO/sAlgeBCD.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:38 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/sum_n_digitos_algebraica_BCD/CODIGO/sAlgeBCD.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package retardos_bcd_pkg
+# -- Loading package componentes_sum_algebraica_pkg
+# -- Compiling entity sAlgeBCD
+# -- Compiling architecture estructural of sAlgeBCD
+# End time: 01:38:38 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/sum_n_digitos_enteros_BCD/CODIGO/sentbcd.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:38 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/sum_n_digitos_enteros_BCD/CODIGO/sentbcd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package componentes_snBCD_pkg
+# -- Compiling entity sentBCD
+# -- Compiling architecture estructural of sentBCD
+# End time: 01:38:38 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/sum_n_digitos_BCD/CODIGO/snbcd.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:38 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/sum_n_digitos_BCD/CODIGO/snbcd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package componentes_s1BCD_pkg
+# -- Compiling entity snBCD
+# -- Compiling architecture estructural of snBCD
+# End time: 01:38:38 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/CODIGO/s1bcd.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:38 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/CODIGO/s1bcd.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package componentes_digito_bcd_pkg
+# -- Compiling entity s1bcd
+# -- Compiling architecture compor of s1bcd
+# End time: 01:38:38 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/sum_n_digitos_algebraica_BCD/QUARTUS/../PRUEBAS/prueba_sAlgeBCD.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 01:38:38 on Oct 15,2018
+# vcom -reportprogress 300 -93 -work work C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/sum_n_digitos_algebraica_BCD/QUARTUS/../PRUEBAS/prueba_sAlgeBCD.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package cte_tipos_bcd_pkg
+# -- Loading package retardos_bcd_pkg
+# -- Compiling entity prueba_sAlgeBCD
+# -- Compiling architecture prueba of prueba_sAlgeBCD
+# End time: 01:38:38 on Oct 15,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L rtl_work -L work -voptargs="+acc"  prueba_sAlgeBCD
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cycloneiv_hssi -L cycloneiv_pcie_hip -L cycloneiv -L rtl_work -L work -voptargs=""+acc"" prueba_sAlgeBCD 
+# Start time: 01:38:38 on Oct 15,2018
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.cte_tipos_bcd_pkg
+# Loading work.retardos_bcd_pkg
+# Loading work.prueba_salgebcd(prueba)
+# Loading work.componentes_sum_algebraica_pkg
+# Loading work.salgebcd(estructural)
+# Loading work.compl9(comportamiento)
+# Loading work.componentes_snbcd_pkg
+# Loading work.sentbcd(estructural)
+# Loading work.componentes_s1bcd_pkg
+# Loading work.snbcd(estructural)
+# Loading work.componentes_digito_bcd_pkg
+# Loading work.s1bcd(compor)
+# Loading work.snbits(compor)
+# Loading work.mayor9(comportamiento)
+# Loading work.s1bit(funcional)
+# 
+# do C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/sum_n_digitos_algebraica_BCD/QUARTUS/../PRUEBAS/formato_ventanas.do
+# log -r /*
+# if {[batch_mode] == 0} then { do wave.do }
+# onerror {resume}
+# quietly WaveActivateNextPane {} 0
+# add wave -noupdate -radix hexadecimal -childformat {{/prueba_salgebcd/A(8) -radix hexadecimal} {/prueba_salgebcd/A(7) -radix hexadecimal} {/prueba_salgebcd/A(6) -radix hexadecimal} {/prueba_salgebcd/A(5) -radix hexadecimal} {/prueba_salgebcd/A(4) -radix hexadecimal} {/prueba_salgebcd/A(3) -radix hexadecimal} {/prueba_salgebcd/A(2) -radix hexadecimal} {/prueba_salgebcd/A(1) -radix hexadecimal} {/prueba_salgebcd/A(0) -radix hexadecimal}} -subitemconfig {/prueba_salgebcd/A(8) {-radix hexadecimal} /prueba_salgebcd/A(7) {-radix hexadecimal} /prueba_salgebcd/A(6) {-radix hexadecimal} /prueba_salgebcd/A(5) {-radix hexadecimal} /prueba_salgebcd/A(4) {-radix hexadecimal} /prueba_salgebcd/A(3) {-radix hexadecimal} /prueba_salgebcd/A(2) {-radix hexadecimal} /prueba_salgebcd/A(1) {-radix hexadecimal} /prueba_salgebcd/A(0) {-radix hexadecimal}} /prueba_salgebcd/A
+# add wave -noupdate -radix hexadecimal /prueba_salgebcd/B
+# add wave -noupdate -radix hexadecimal /prueba_salgebcd/suma
+# add wave -noupdate -format Literal -radix hexadecimal /prueba_salgebcd/sumres
+# add wave -noupdate -format Literal -radix hexadecimal /prueba_salgebcd/irre
+# TreeUpdate [SetDefaultTree]
+# WaveRestoreCursors {{Cursor 1} {63007 ps} 0}
+# quietly wave cursor active 1
+# configure wave -namecolwidth 201
+# configure wave -valuecolwidth 100
+# configure wave -justifyvalue left
+# configure wave -signalnamewidth 1
+# configure wave -snapdistance 10
+# configure wave -datasetprefix 0
+# configure wave -rowmargin 4
+# configure wave -childrowmargin 2
+# configure wave -gridoffset 0
+# configure wave -gridperiod 1
+# configure wave -griddelta 40
+# configure wave -timeline 0
+# configure wave -timelineunits ns
+# update
+# WaveRestoreZoom {0 ps} {1028006 ps}
+# run -all
+# ** Failure: la comprobación de irrepresentabilidad falla
+# 
+# -99 + -1 = -100 irrecomp: '0' irre: '1'
+#    Time: 6 us  Iteration: 0  Process: /prueba_salgebcd/estimulos File: C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/sum_n_digitos_algebraica_BCD/QUARTUS/../PRUEBAS/prueba_sAlgeBCD.vhd
+# Break in ForLoop loop at C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/sum_n_digitos_algebraica_BCD/QUARTUS/../PRUEBAS/prueba_sAlgeBCD.vhd line 108
+add wave -position end  sim:/prueba_salgebcd/snentBCD/sumn/a
+add wave -position end  sim:/prueba_salgebcd/snentBCD/sumn/b
+add wave -position end  sim:/prueba_salgebcd/snentBCD/sumn/s
+# End time: 02:11:46 on Oct 15,2018, Elapsed time: 0:33:08
+# Errors: 0, Warnings: 0

@@ -1,0 +1,256 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/simulation/modelsim
+Pcomponentes_digito_bcd_pkg
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx4 work 17 cte_tipos_bcd_pkg 0 22 P92IllYHdaSJ9Sjm2WV@@0
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 w1534675090
+R0
+8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/componentes_dig_BCD_pkg/componentes_digito_bcd_pkg.vhd
+FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/componentes_dig_BCD_pkg/componentes_digito_bcd_pkg.vhd
+l0
+L10
+VMOQoWjH[[]8ik;Pd1INVF1
+!s100 Vo5O2OZ`FkNo?<na9j^Gk2
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1539542623
+!i10b 1
+Z8 !s108 1539542623.000000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/componentes_dig_BCD_pkg/componentes_digito_bcd_pkg.vhd|
+!s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/componentes_dig_BCD_pkg/componentes_digito_bcd_pkg.vhd|
+!i113 1
+Z9 o-93 -work work
+Z10 tExplicit 1 CvgOpt 0
+Pcte_tipos_bcd_pkg
+R1
+R3
+R4
+R5
+R0
+8C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd
+FC:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd
+l0
+L10
+VP92IllYHdaSJ9Sjm2WV@@0
+!s100 mEQ[;Xkj2fjH?<5?38`a?1
+R6
+31
+R7
+!i10b 1
+R8
+!s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd|
+!s107 C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd|
+!i113 1
+R9
+R10
+Emayor9
+Z11 w1539538869
+Z12 DPx4 work 16 retardos_bcd_pkg 0 22 QP9eJS]RV?O^hOAF1[9;P0
+R1
+R2
+R3
+R4
+R0
+Z13 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd
+Z14 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd
+l0
+L11
+VBP@=D[?nhXSbWQUe40RDi1
+!s100 gn7>h<zdH1N>M47^g?_6U1
+R6
+31
+Z15 !s110 1539542624
+!i10b 1
+Z16 !s108 1539542624.000000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd|
+Z18 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd|
+!i113 1
+R9
+R10
+Acomportamiento
+R12
+R1
+R2
+R3
+R4
+DEx4 work 6 mayor9 0 22 BP@=D[?nhXSbWQUe40RDi1
+l21
+L17
+Vj;U`C`U`_>jhRe<[Z]`Q]2
+!s100 dfTjH=j`J;jG_`?Tj30Q>3
+R6
+31
+R15
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R9
+R10
+Eprueba_s1bcd
+R5
+R12
+R2
+R1
+R3
+R4
+R0
+Z19 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../PRUEBAS/prueba_s1bcd.vhd
+Z20 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../PRUEBAS/prueba_s1bcd.vhd
+l0
+L12
+VM?JA?96@?B4FPBaK;9NiC0
+!s100 jbbd;ieY5nmf8nnM_STmd1
+R6
+31
+R15
+!i10b 1
+R16
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../PRUEBAS/prueba_s1bcd.vhd|
+Z22 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../PRUEBAS/prueba_s1bcd.vhd|
+!i113 1
+R9
+R10
+Aprueba
+R12
+R2
+R1
+R3
+R4
+DEx4 work 12 prueba_s1bcd 0 22 M?JA?96@?B4FPBaK;9NiC0
+l31
+L16
+Vj>HV`iQDWEJk24ad;d47=2
+!s100 >OQ@:a^i2fH[f[De9H2=P3
+R6
+31
+R15
+!i10b 1
+R16
+R21
+R22
+!i113 1
+R9
+R10
+Pretardos_bcd_pkg
+R3
+R4
+R5
+R0
+8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../../../../../../../../../tipos_ctes_pkg/retardos_bcd_pkg.vhd
+FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../../../../../../../../../tipos_ctes_pkg/retardos_bcd_pkg.vhd
+l0
+L9
+VQP9eJS]RV?O^hOAF1[9;P0
+!s100 JI8A@moDLId<JD;fmfo;n2
+R6
+31
+R15
+!i10b 1
+R16
+!s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../../../../../../../../../tipos_ctes_pkg/retardos_bcd_pkg.vhd|
+!s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/QUARTUS/../../../../../../../../../tipos_ctes_pkg/retardos_bcd_pkg.vhd|
+!i113 1
+R9
+R10
+Es1bcd
+Z23 w1539542567
+Z24 DPx4 work 26 componentes_digito_bcd_pkg 0 22 MOQoWjH[[]8ik;Pd1INVF1
+R1
+R2
+R3
+R4
+R0
+Z25 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/CODIGO/s1bcd.vhd
+Z26 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/CODIGO/s1bcd.vhd
+l0
+L11
+VX89NS<_JjcT?U;FJkSON=1
+!s100 nc0E7`c5j=l^V>EUPlF;03
+R6
+31
+R15
+!i10b 1
+R16
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/CODIGO/s1bcd.vhd|
+Z28 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/suma_dos_digitos_BCD/CODIGO/s1bcd.vhd|
+!i113 1
+R9
+R10
+Acompor
+R24
+R1
+R2
+R3
+R4
+DEx4 work 5 s1bcd 0 22 X89NS<_JjcT?U;FJkSON=1
+l39
+L19
+VL<eje4dV?oXTd_DeLjWQ^1
+!s100 NzBUHbEJZICHmN_?;7QLk0
+R6
+31
+R15
+!i10b 1
+R16
+R27
+R28
+!i113 1
+R9
+R10
+Esnbits
+R5
+R12
+R2
+R1
+R3
+R4
+R0
+Z29 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/sumador_binario/CODIGO/snbits.vhd
+Z30 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/sumador_binario/CODIGO/snbits.vhd
+l0
+L12
+VG>d7dX6c4:<Ja9:JL>CV81
+!s100 DOZDM:9Ql>07VGfSO5S1E2
+R6
+31
+R15
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/sumador_binario/CODIGO/snbits.vhd|
+Z32 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/sumador_binario/CODIGO/snbits.vhd|
+!i113 1
+R9
+R10
+Acompor
+R12
+R2
+R1
+R3
+R4
+DEx4 work 6 snbits 0 22 G>d7dX6c4:<Ja9:JL>CV81
+l23
+L20
+VKm=48Ih^zl@]O5k1QR7ai1
+!s100 D07jjfMaT8XYS8X=796e^1
+R6
+31
+R15
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R9
+R10

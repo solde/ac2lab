@@ -1,0 +1,94 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/QUARTUS/simulation/modelsim
+Es1bit
+Z1 w1534675090
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/SUM4/QUARTUS/simulation/modelsim
+Z5 8/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd
+Z6 F/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd
+l0
+L9
+V@JNN>7U`jY@9:?[N>7M>a3
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1551858459.765306
+Z9 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
+Z10 !s107 /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 Le`iXATbC6cfm6k0bo`O@0
+!i10b 1
+Aflujodatos
+R2
+R3
+DEx4 work 5 s1bit 0 22 @JNN>7U`jY@9:?[N>7M>a3
+l24
+L20
+VP[M]80W1c_[32C8Ck9U>m3
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 9C6;<]@ERVgdOhGH^z84>0
+!i10b 1
+Es4bits
+Z13 w1551858354
+Z14 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R2
+R3
+R4
+Z15 8/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd
+Z16 F/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd
+l0
+L9
+V;<@ZJSBnJgkAVNHFjm`og3
+!s100 QaPX?>:9kgRB2XM]Lkdi]1
+R7
+31
+!i10b 1
+Z17 !s108 1551858459.863593
+Z18 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd|
+Z19 !s107 /dades/david.soldevila.puigbi/aclab/lab2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s4bits.vhd|
+R11
+R12
+Astructural
+R14
+R2
+R3
+Z20 DEx4 work 6 s4bits 0 22 ;<@ZJSBnJgkAVNHFjm`og3
+l36
+L30
+V7YjIS]F1l?]FQodTgz;To1
+!s100 Ag][S5R@e>Fk3l[g:AOlj1
+R7
+31
+!i10b 1
+R17
+R18
+R19
+R11
+R12
+Acomportamiento
+R14
+R2
+R3
+R20
+l23
+L19
+V7S`K5W:i3l[mRa[M3VkZ=2
+!s100 z;RTO0>]kTMX]YNMiRM2d3
+R7
+31
+!i10b 1
+R17
+R18
+R19
+R11
+R12

@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.1
+Es1bit
+Z0 w1534675090
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/FIB/labac2/LAB2/SUMA/SUM4/QUARTUS
+Z4 8C:/FIB/labac2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd
+Z5 FC:/FIB/labac2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd
+l0
+L9
+V:L@=CBUPHz2>V=>eQGi5S3
+!s100 T0GWTIb`8V[GL60o[KgGP0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1552952707
+!i10b 1
+Z8 !s108 1552952707.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/FIB/labac2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
+Z10 !s107 C:/FIB/labac2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aflujodatos
+R1
+R2
+DEx4 work 5 s1bit 0 22 :L@=CBUPHz2>V=>eQGi5S3
+l24
+L20
+VN93WZmB=ODS5@GZOP8?g30
+!s100 i6V?IMUnKObhXV1^Z^_9:1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Es4bits
+Z13 w1539565801
+R1
+R2
+R3
+Z14 8C:/FIB/labac2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+Z15 FC:/FIB/labac2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+l0
+L13
+V=bM=75`_CXbYQah47h1>N2
+!s100 fOaJ1P3MjP54DEVdReb=F1
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/FIB/labac2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
+Z17 !s107 C:/FIB/labac2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd|
+!i113 1
+R11
+R12
+Aestructural
+R1
+R2
+DEx4 work 6 s4bits 0 22 =bM=75`_CXbYQah47h1>N2
+l32
+L25
+Vk^W3I_aLTD:g[9RD<V`4b3
+!s100 C3;kc4W<fCon@HoI5?N[Y1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

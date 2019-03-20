@@ -1,0 +1,143 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/QUARTUS/simulation/modelsim
+Pcte_tipos_bcd_pkg
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 w1534675090
+R0
+8C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd
+FC:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd
+l0
+L10
+VP92IllYHdaSJ9Sjm2WV@@0
+!s100 mEQ[;Xkj2fjH?<5?38`a?1
+Z5 OV;C;10.5b;63
+31
+Z6 !s110 1539538908
+!i10b 1
+Z7 !s108 1539538908.000000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd|
+!s107 C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd|
+!i113 1
+Z8 o-93 -work work
+Z9 tExplicit 1 CvgOpt 0
+Emayor9
+Z10 w1539538869
+Z11 DPx4 work 16 retardos_bcd_pkg 0 22 QP9eJS]RV?O^hOAF1[9;P0
+R1
+Z12 DPx4 work 17 cte_tipos_bcd_pkg 0 22 P92IllYHdaSJ9Sjm2WV@@0
+R2
+R3
+R0
+Z13 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd
+Z14 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd
+l0
+L11
+VBP@=D[?nhXSbWQUe40RDi1
+!s100 gn7>h<zdH1N>M47^g?_6U1
+R5
+31
+R6
+!i10b 1
+R7
+Z15 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd|
+Z16 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/CODIGO/mayor9.vhd|
+!i113 1
+R8
+R9
+Acomportamiento
+R11
+R1
+R12
+R2
+R3
+DEx4 work 6 mayor9 0 22 BP@=D[?nhXSbWQUe40RDi1
+l21
+L17
+Vj;U`C`U`_>jhRe<[Z]`Q]2
+!s100 dfTjH=j`J;jG_`?Tj30Q>3
+R5
+31
+R6
+!i10b 1
+R7
+R15
+R16
+!i113 1
+R8
+R9
+Eprueba_mayor9
+R4
+R11
+R12
+R1
+R2
+R3
+R0
+Z17 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/QUARTUS/../PRUEBA/prueba_mayor9.vhd
+Z18 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/QUARTUS/../PRUEBA/prueba_mayor9.vhd
+l0
+L13
+VlWb6W`NPHGA[S[4n9];mb0
+!s100 AT3m][^R[nbWXWd_m2FCJ0
+R5
+31
+Z19 !s110 1539538909
+!i10b 1
+Z20 !s108 1539538909.000000
+Z21 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/QUARTUS/../PRUEBA/prueba_mayor9.vhd|
+Z22 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/SUMA_enteros_BCD/COMPONENTES/SUMA_natu_BCD/COMPONENTES/sum_digito_BCD/COMPONENTES/mayor9/QUARTUS/../PRUEBA/prueba_mayor9.vhd|
+!i113 1
+R8
+R9
+Aprueba
+R11
+R12
+R1
+R2
+R3
+DEx4 work 13 prueba_mayor9 0 22 lWb6W`NPHGA[S[4n9];mb0
+l30
+L17
+V0cb2^15hI;ZJ6]CXmClCi3
+!s100 Tb1=H:R;nLT5^fTk^`a1?1
+R5
+31
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R8
+R9
+Pretardos_bcd_pkg
+R2
+R3
+R4
+R0
+8C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd
+FC:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd
+l0
+L9
+VQP9eJS]RV?O^hOAF1[9;P0
+!s100 JI8A@moDLId<JD;fmfo;n2
+R5
+31
+R6
+!i10b 1
+R7
+!s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd|
+!s107 C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd|
+!i113 1
+R8
+R9

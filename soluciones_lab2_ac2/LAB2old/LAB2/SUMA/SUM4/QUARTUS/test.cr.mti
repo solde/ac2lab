@@ -1,0 +1,17 @@
+C:/FIB/labac2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/FIB/labac2/LAB2/SUMA/COMPONENTES/SUM1BIT/CODIGO/s1bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity s1bit
+-- Compiling architecture flujodatos of s1bit
+
+} {} {}} C:/FIB/labac2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/FIB/labac2/LAB2/SUMA/SUM4/CODIGO/S4bits.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity S4bits
+-- Compiling architecture estructural of S4bits
+
+} {} {}}

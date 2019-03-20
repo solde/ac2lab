@@ -1,0 +1,172 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/simulation/modelsim
+Eprueba_snbits_reloj
+Z1 w1539516292
+Z2 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd
+Z7 FC:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd
+l0
+L12
+V?QJ8HiQj;Wk0fSoS8MD<93
+!s100 aXQNkScAPE`3@7U0dkS3n1
+Z8 OV;C;10.5b;63
+33
+Z9 !s110 1539566480
+!i10b 1
+Z10 !s108 1539566480.000000
+Z11 !s90 -reportprogress|300|-2008|-work|work|C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd|
+Z12 !s107 C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/prueba_snbits_reloj.vhd|
+!i113 1
+Z13 o-2008 -work work
+Z14 tExplicit 1 CvgOpt 0
+Aprueba
+R2
+R3
+R4
+R5
+DEx4 work 19 prueba_snbits_reloj 0 22 ?QJ8HiQj;Wk0fSoS8MD<93
+l45
+L16
+Vg9=7zmWf1I<^@6h0>fBn:0
+!s100 X85:<g_[0OL8FQQ88?o<42
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Es1bit
+Z15 w1534675090
+R4
+R5
+R0
+Z16 8c:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd
+Z17 Fc:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd
+l0
+L9
+Ve4K9bZZ4DFPK]zkLl^TR?2
+!s100 T0GWTIb`8V[GL60o[KgGP0
+R8
+31
+R9
+!i10b 1
+R10
+Z18 !s90 -reportprogress|300|-93|-work|work|c:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd|
+Z19 !s107 c:/users/user/desktop/lab2/suma/componentes/sum1bit/codigo/s1bit.vhd|
+!i113 1
+Z20 o-93 -work work
+R14
+Aflujodatos
+R4
+R5
+DEx4 work 5 s1bit 0 22 e4K9bZZ4DFPK]zkLl^TR?2
+l24
+L20
+VmBh]bToHP@Uga0oezLl3E3
+!s100 i6V?IMUnKObhXV1^Z^_9:1
+R8
+31
+R9
+!i10b 1
+R10
+R18
+R19
+!i113 1
+R20
+R14
+Esnbits
+Z21 w1539502122
+R4
+R5
+R0
+Z22 8C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/CODIGO/snbits.vhd
+Z23 FC:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/CODIGO/snbits.vhd
+l0
+L13
+V2C4WUk45]a[C=f=41JFfh1
+!s100 95WlGoe6:`QoV8lhP;X8L2
+R8
+31
+R9
+!i10b 1
+R10
+Z24 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/CODIGO/snbits.vhd|
+Z25 !s107 C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/CODIGO/snbits.vhd|
+!i113 1
+R20
+R14
+Aestructural
+R4
+R5
+DEx4 work 6 snbits 0 22 2C4WUk45]a[C=f=41JFfh1
+l35
+L23
+Vem4K91G5fG3QhQl]fUEMH0
+!s100 [OTehFCSRdRF`0BWPeL^i1
+R8
+31
+R9
+!i10b 1
+R10
+R24
+R25
+!i113 1
+R20
+R14
+Esnref
+R15
+R3
+R4
+R5
+R0
+Z26 8C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/snref.vhd
+Z27 FC:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/snref.vhd
+l0
+L10
+VgU>LVfn@=`Q^icX0N_G180
+!s100 keBbHjZOTLWPEieaE@IOI1
+R8
+31
+R9
+!i10b 1
+R10
+Z28 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/snref.vhd|
+Z29 !s107 C:/Users/user/Desktop/LAB2/SUMA/SUMGENERA/QUARTUS/../PRUEBAS/snref.vhd|
+!i113 1
+R20
+R14
+Areferencia
+R3
+R4
+R5
+DEx4 work 5 snref 0 22 gU>LVfn@=`Q^icX0N_G180
+l23
+L19
+V;1iPni51R[cComVH:[f210
+!s100 =j[TB:hMYbR70[[HAJThh3
+R8
+31
+R9
+!i10b 1
+R10
+R28
+R29
+!i113 1
+R20
+R14

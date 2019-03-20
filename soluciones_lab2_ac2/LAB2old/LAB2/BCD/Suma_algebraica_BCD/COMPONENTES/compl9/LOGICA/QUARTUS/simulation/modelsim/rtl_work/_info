@@ -1,0 +1,143 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/QUARTUS/simulation/modelsim
+Ecompl9
+Z1 w1539556832
+Z2 DPx4 work 16 retardos_bcd_pkg 0 22 QP9eJS]RV?O^hOAF1[9;P0
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx4 work 17 cte_tipos_bcd_pkg 0 22 P92IllYHdaSJ9Sjm2WV@@0
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z7 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/CODIGO/compl9.vhd
+Z8 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/CODIGO/compl9.vhd
+l0
+L11
+VZeAS?Y9bdnkWKiP^RY8;m1
+!s100 ZHF3AI3?=G79=016:_:nT2
+Z9 OV;C;10.5b;63
+31
+Z10 !s110 1539556858
+!i10b 1
+Z11 !s108 1539556858.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/CODIGO/compl9.vhd|
+Z13 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/CODIGO/compl9.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Acomportamiento
+R2
+R3
+R4
+R5
+R6
+DEx4 work 6 compl9 0 22 ZeAS?Y9bdnkWKiP^RY8;m1
+l17
+L16
+VTe<o>FEOedQ88XzPfBK2;0
+!s100 8[bMei[CE^QfF1G6LVihe1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Pcte_tipos_bcd_pkg
+R3
+R5
+R6
+Z16 w1534675090
+R0
+8C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd
+FC:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd
+l0
+L10
+VP92IllYHdaSJ9Sjm2WV@@0
+!s100 mEQ[;Xkj2fjH?<5?38`a?1
+R9
+31
+R10
+!i10b 1
+Z17 !s108 1539556857.000000
+!s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd|
+!s107 C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/cte_tipos_bcd_pkg.vhd|
+!i113 1
+R14
+R15
+Eprueba_compl9
+R16
+R2
+R4
+R3
+R5
+R6
+R0
+Z18 8C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/QUARTUS/../PRUEBAS/prueba_compl9.vhd
+Z19 FC:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/QUARTUS/../PRUEBAS/prueba_compl9.vhd
+l0
+L12
+V]mJ5eSf2@oaPbgJkFl7?40
+!s100 E<87IfzSC2P40zLo^LJSY2
+R9
+31
+R10
+!i10b 1
+R11
+Z20 !s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/QUARTUS/../PRUEBAS/prueba_compl9.vhd|
+Z21 !s107 C:/Users/user/Desktop/LAB2/BCD/Suma_algebraica_BCD/COMPONENTES/compl9/LOGICA/QUARTUS/../PRUEBAS/prueba_compl9.vhd|
+!i113 1
+R14
+R15
+Aprueba
+R2
+R4
+R3
+R5
+R6
+DEx4 work 13 prueba_compl9 0 22 ]mJ5eSf2@oaPbgJkFl7?40
+l25
+L15
+VKD@HN0^P9PQ;90;:e<c;90
+!s100 13^Q9l9P1hSXl:<n5K4=g2
+R9
+31
+R10
+!i10b 1
+R11
+R20
+R21
+!i113 1
+R14
+R15
+Pretardos_bcd_pkg
+R5
+R6
+R16
+R0
+8C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd
+FC:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd
+l0
+L9
+VQP9eJS]RV?O^hOAF1[9;P0
+!s100 JI8A@moDLId<JD;fmfo;n2
+R9
+31
+!s110 1539556857
+!i10b 1
+R17
+!s90 -reportprogress|300|-93|-work|work|C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd|
+!s107 C:/Users/user/Desktop/LAB2/BCD/tipos_ctes_pkg/retardos_bcd_pkg.vhd|
+!i113 1
+R14
+R15

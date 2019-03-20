@@ -1,0 +1,71 @@
+|s1bcd
+X[0] => snbits:s4bits1.X[0]
+X[1] => snbits:s4bits1.X[1]
+X[2] => snbits:s4bits1.X[2]
+X[3] => snbits:s4bits1.X[3]
+Y[0] => snbits:s4bits1.Y[0]
+Y[1] => snbits:s4bits1.Y[1]
+Y[2] => snbits:s4bits1.Y[2]
+Y[3] => snbits:s4bits1.Y[3]
+cen => snbits:s4bits1.cen
+S[0] <= mayor9:cosa.S[0]
+S[1] <= mayor9:cosa.S[1]
+S[2] <= mayor9:cosa.S[2]
+S[3] <= mayor9:cosa.S[3]
+csal <= mayor9:cosa.csal
+
+
+|s1bcd|snbits:s4bits1
+X[0] => Add0.IN5
+X[1] => Add0.IN4
+X[2] => Add0.IN3
+X[3] => Add0.IN2
+Y[0] => Add0.IN9
+Y[1] => Add0.IN8
+Y[2] => Add0.IN7
+Y[3] => Add0.IN6
+cen => Add0.IN10
+sum[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+csal <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|s1bcd|mayor9:cosa
+X[0] => S.DATAA
+X[0] => snbits:suma.X[0]
+X[1] => aux1.IN0
+X[1] => S.DATAA
+X[1] => snbits:suma.X[1]
+X[2] => aux1.IN1
+X[2] => S.DATAA
+X[2] => snbits:suma.X[2]
+X[3] => aux2.IN1
+X[3] => S.DATAA
+X[3] => snbits:suma.X[3]
+X[4] => csal_pero_vhdl_te_retras.IN1
+S[0] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[1] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[2] <= S.DB_MAX_OUTPUT_PORT_TYPE
+S[3] <= S.DB_MAX_OUTPUT_PORT_TYPE
+csal <= csal_pero_vhdl_te_retras.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|s1bcd|mayor9:cosa|snbits:suma
+X[0] => Add0.IN5
+X[1] => Add0.IN4
+X[2] => Add0.IN3
+X[3] => Add0.IN2
+Y[0] => Add0.IN9
+Y[1] => Add0.IN8
+Y[2] => Add0.IN7
+Y[3] => Add0.IN6
+cen => Add0.IN10
+sum[0] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[1] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[2] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+sum[3] <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+csal <= Add0.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -5,5 +5,5 @@ if {[file exists rtl_work]} {
 vlib rtl_work
 vmap work rtl_work
 
-vcom -93 -work work {/dades/david.soldevila.puigbi/aclab/lab1/CODIGO/s1bit.vhd}
+vcom -93 -work work {C:/Users/David Soldevila/Desktop/ac2lab/lab1/CODIGO/s1bit.vhd}
 
