@@ -27,6 +27,7 @@ signal PE, PEBR, selec: std_logic;
 
 begin
 
+
 muxiniDE: multiplexor generic map(tam => tam_camino)
 				port map(e0 => DEsum, e1 => DEini, selec => selec, sal => DEBR);
 muxiniIDE: multiplexor generic map(tam => log_num_reg)

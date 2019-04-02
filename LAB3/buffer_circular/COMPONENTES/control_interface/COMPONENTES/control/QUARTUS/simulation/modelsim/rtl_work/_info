@@ -1,0 +1,130 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/simulation/modelsim
+Econtrol
+Z1 w1554192424
+Z2 DPx4 work 19 retardos_buffer_pkg 0 22 UeW]zTT`]YRXOiVW@RJJK3
+Z3 DPx4 work 20 cte_tipos_buffer_pkg 0 22 =J<N>e^O]Z^6T[M9i[HR[3
+Z4 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z5 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z6 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z7 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z8 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z9 d/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/simulation/modelsim
+Z10 8/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/CODIGO/control.vhd
+Z11 F/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/CODIGO/control.vhd
+l0
+L15
+VQB34UZ6La4Y?zoWCeWj`>3
+Z12 OV;C;10.1d;51
+31
+Z13 !s108 1554194019.081789
+Z14 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/CODIGO/control.vhd|
+Z15 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/CODIGO/control.vhd|
+Z16 o-93 -work work -O0
+Z17 tExplicit 1
+!s100 B1JfU_l[W3:e:l]aaoEHg3
+!i10b 1
+Acompor
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 7 control 0 22 QB34UZ6La4Y?zoWCeWj`>3
+l25
+L22
+V9L8eNNe^CAa193IoOoLWL2
+R12
+31
+R13
+R14
+R15
+R16
+R17
+!s100 P__[_FJ[O9zC_2SHRlSK`1
+!i10b 1
+Pcte_tipos_buffer_pkg
+R4
+R7
+R8
+w1554191497
+R9
+8/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/cte_tipos_buffer_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/cte_tipos_buffer_pkg.vhd
+l0
+L10
+V=J<N>e^O]Z^6T[M9i[HR[3
+R12
+31
+R16
+R17
+!s100 dkPGI<5KWcU;DV74V6UAF3
+!i10b 1
+!s108 1554194018.962705
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/cte_tipos_buffer_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/cte_tipos_buffer_pkg.vhd|
+Eprueba_control
+Z18 w1553072028
+R2
+R3
+R4
+R7
+R8
+R9
+Z19 8/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/../PRUEBAS/prueba_control.vhd
+Z20 F/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/../PRUEBAS/prueba_control.vhd
+l0
+L12
+V^WVgNPdb1R:EC:Xfo37A_2
+!s100 b_a8@M75bQ[9O1<<7@D_n3
+R12
+31
+!i10b 1
+Z21 !s108 1554194019.227652
+Z22 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/../PRUEBAS/prueba_control.vhd|
+Z23 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/../PRUEBAS/prueba_control.vhd|
+R16
+R17
+Aprueba
+R2
+R3
+R4
+R7
+R8
+DEx4 work 14 prueba_control 0 22 ^WVgNPdb1R:EC:Xfo37A_2
+l27
+L15
+VKMSzgaUTETa8=jlY[YMQa3
+!s100 ;FhI?mnllcBQGlLTVD6H81
+R12
+31
+!i10b 1
+R21
+R22
+R23
+R16
+R17
+Pretardos_buffer_pkg
+R7
+R8
+w1553072030
+R9
+8/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/retardos_buffer_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/retardos_buffer_pkg.vhd
+l0
+L9
+VUeW]zTT`]YRXOiVW@RJJK3
+R12
+31
+R16
+R17
+!s100 gVeBUg?J0g[XeiiHT5^P;3
+!i10b 1
+!s108 1554194018.839598
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/retardos_buffer_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/retardos_buffer_pkg.vhd|

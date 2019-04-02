@@ -22,13 +22,15 @@ end acceso;
 
 architecture estruc of acceso is
 -- senyales
+signal val_B,listo_B, listo_C, val_P: st_puntero;
+signal lleno, vacio, cond_esc, cond_lec :std_logic;
+signal colaincr_pocho: st_puntero;
 
 begin
 -- instanciaciones punteros cola y cabeza
-
-	cabeza <= (others => '0');
-	cola <= (others => '0');
-	colaincr <= (others => '0');
+	
+	reg_cola: puntero port map (reloj => reloj, pcero => pcero, condicion => escritura, puntincr => colaincr, punt => cola);
+	reg_cabeza: puntero port map (reloj => reloj, pcero => pcero, condicion => lectura, puntincr => colaincr_pocho, punt => cabeza);
 
 	PE <= escritura;
 				

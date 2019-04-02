@@ -1,0 +1,536 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/simulation/modelsim
+Ebr
+Z1 w1549628197
+Z2 DPx4 work 19 retardos_nucleo_pkg 0 22 :io0;H_FJlXlL?_2EKIa_2
+Z3 DPx4 work 20 cte_tipos_nucleo_pkg 0 22 9Xl=h46VjGA^LC@<SEY<l0
+Z4 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 d/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/simulation/modelsim
+Z8 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/BR/CODIGO/BR.vhd
+Z9 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/BR/CODIGO/BR.vhd
+l0
+L13
+VSGVjmDe=1n4@f[a9fjOWU1
+Z10 OV;C;10.1d;51
+33
+Z11 !s108 1553592030.514854
+Z12 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/BR/CODIGO/BR.vhd|
+Z13 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/BR/CODIGO/BR.vhd|
+Z14 o-2008 -work work -O0
+Z15 tExplicit 1
+!s100 @FFl^3gh4UA>HQ@28N=n=2
+!i10b 1
+Acompor
+R2
+R3
+R4
+R5
+R6
+DEx4 work 2 br 0 22 SGVjmDe=1n4@f[a9fjOWU1
+l26
+L21
+V3K8Ph3Pa;Fi8>cPe9ngnT1
+R10
+33
+R11
+R12
+R13
+R14
+R15
+!s100 kT;iGWGzeSYH^a=Q`=m0E0
+!i10b 1
+Ecamino_control
+Z16 w1553592010
+Z17 DPx4 work 22 componentes_nucleo_pkg 0 22 ]4mHRPM<Z:SDW`?1QQ<L_2
+R3
+R4
+R5
+R6
+R7
+Z18 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/CODIGO/camino_control.vhd
+Z19 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/CODIGO/camino_control.vhd
+l0
+L13
+V9IHMOmBC=6@]3jdQ6f2QJ0
+R10
+33
+Z20 !s108 1553592031.198567
+Z21 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/CODIGO/camino_control.vhd|
+Z22 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/CODIGO/camino_control.vhd|
+R14
+R15
+!s100 4VHe_c?][gUzO5cWjV5Qe0
+!i10b 1
+Aestructura
+R17
+R3
+R4
+R5
+R6
+DEx4 work 14 camino_control 0 22 9IHMOmBC=6@]3jdQ6f2QJ0
+l28
+L22
+V]3n4akBK@=:H<37j7iCLo2
+R10
+33
+R20
+R21
+R22
+R14
+R15
+!s100 ObGb>OfcIU?Vc=W]YDdJg2
+!i10b 1
+Pcomponentes_control_pkg
+R2
+R3
+R4
+R5
+R6
+Z23 w1553072027
+R7
+8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/componentes_control_pkg/componentes_control_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/componentes_control_pkg/componentes_control_pkg.vhd
+l0
+L12
+V[jbc>RzG=^l?AHoY^an:H3
+R10
+33
+R14
+R15
+!s100 j]?n^O_OXn3@[]ejPBI4`0
+!i10b 1
+!s108 1553592030.185788
+!s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/componentes_control_pkg/componentes_control_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/componentes_control_pkg/componentes_control_pkg.vhd|
+Pcomponentes_nucleo_pkg
+R3
+R4
+R5
+R6
+R23
+R7
+8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/componentes_nucleo_pkg/componentes_nucleo_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/componentes_nucleo_pkg/componentes_nucleo_pkg.vhd
+l0
+L11
+V]4mHRPM<Z:SDW`?1QQ<L_2
+R10
+33
+R14
+R15
+!s100 VgRRCPeCeL9XRUPo@BI2f3
+!i10b 1
+!s108 1553592030.288827
+!s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/componentes_nucleo_pkg/componentes_nucleo_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/componentes_nucleo_pkg/componentes_nucleo_pkg.vhd|
+Econtrol
+R23
+Z24 DPx4 work 23 componentes_control_pkg 0 22 [jbc>RzG=^l?AHoY^an:H3
+R2
+R3
+R4
+R5
+R6
+R7
+Z25 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/control_indep/CODIGO/control.vhd
+Z26 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/control_indep/CODIGO/control.vhd
+l0
+L15
+Vg9FS]DCBiV=jJfCMfdmVA2
+R10
+33
+Z27 !s108 1553592031.329750
+Z28 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/control_indep/CODIGO/control.vhd|
+Z29 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/control_indep/CODIGO/control.vhd|
+R14
+R15
+!s100 Xi_Zk2ScX1o>U84jS6W^B2
+!i10b 1
+Aestructura
+R24
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 control 0 22 g9FS]DCBiV=jJfCMfdmVA2
+l30
+L23
+VIZeBPR0YO7g;fRhX3@4o11
+R10
+33
+R27
+R28
+R29
+R14
+R15
+!s100 XGNbZ@:;T:@A[dSXF]JlI1
+!i10b 1
+Pcte_tipos_nucleo_pkg
+R4
+R5
+R6
+Z30 w1553072028
+R7
+8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/cte_tipos_nucleo_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/cte_tipos_nucleo_pkg.vhd
+l0
+L10
+V9Xl=h46VjGA^LC@<SEY<l0
+R10
+33
+R14
+R15
+!s100 zF;5Ei[BzTlGTgTzi^LUm1
+!i10b 1
+!s108 1553592029.933685
+!s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/cte_tipos_nucleo_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/cte_tipos_nucleo_pkg.vhd|
+Pimpri_br_pkg
+R3
+Z31 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+Z32 DPx4 ieee 9 math_real 0 22 :iME`dTX54_U49lJNF5JI3
+R4
+R5
+R6
+R30
+R7
+Z33 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../../../UTILIDADES_pkg/impri_BR_pkg/impri_BR_pkg.vhd
+Z34 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../../../UTILIDADES_pkg/impri_BR_pkg/impri_BR_pkg.vhd
+l0
+L16
+Ve_a=SfXmO]Dm>EV3BYD5P0
+R10
+33
+b1
+Z35 !s108 1553592031.468662
+Z36 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../../../UTILIDADES_pkg/impri_BR_pkg/impri_BR_pkg.vhd|
+Z37 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../../../UTILIDADES_pkg/impri_BR_pkg/impri_BR_pkg.vhd|
+R14
+R15
+!s100 4[WFh>;<PD6MK?dhc<A4I2
+!i10b 1
+Bbody
+Z38 DPx4 work 12 impri_br_pkg 0 22 e_a=SfXmO]Dm>EV3BYD5P0
+R3
+R31
+R32
+R4
+R5
+R6
+l0
+L25
+Vb6FTdfYMDb=B=0j:88Nk[3
+R10
+33
+R35
+R36
+R37
+R14
+R15
+nbody
+!s100 _PIHQYnI704hDVznh8UQM2
+!i10b 1
+Emultiplexor
+R23
+R4
+R3
+R5
+R6
+R7
+Z39 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor.vhd
+Z40 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor.vhd
+l0
+L10
+V]kW1HzBbgNa@9G59oP@NI0
+R10
+33
+Z41 !s108 1553592030.394945
+Z42 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor.vhd|
+Z43 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor.vhd|
+R14
+R15
+!s100 aI_`fC]c>nhVaOciin53?2
+!i10b 1
+Acompor
+R4
+R3
+R5
+R6
+DEx4 work 11 multiplexor 0 22 ]kW1HzBbgNa@9G59oP@NI0
+l19
+L17
+VaE<j8mUzFndHehoXY?^8U3
+R10
+33
+R41
+R42
+R43
+R14
+R15
+!s100 UJV5bob_F[bRzR_aI53P;3
+!i10b 1
+Emultiplexor_1
+R23
+R5
+R6
+R7
+Z44 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor_1.vhd
+Z45 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor_1.vhd
+l0
+L9
+VKMeh@jHP6:eCAXDcg05P^2
+R10
+33
+Z46 !s108 1553592030.056138
+Z47 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor_1.vhd|
+Z48 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/multiplexores/CODIGO/multiplexor_1.vhd|
+R14
+R15
+!s100 M]BLFgggXnNQfZ5@_V8ei1
+!i10b 1
+Acompor
+R5
+R6
+DEx4 work 13 multiplexor_1 0 22 KMeh@jHP6:eCAXDcg05P^2
+l17
+L15
+V9eTSQc@hXQWcGef^FN9BC3
+R10
+33
+R46
+R47
+R48
+R14
+R15
+!s100 Jf2J>gih97CSW8R:7ZYfR1
+!i10b 1
+Eprueba_camino_control
+R23
+Z49 DPx3 std 3 env 0 22 kU@g3bh3dSQ6SKX7=V`LE3
+R31
+R32
+R38
+Z50 DPx4 work 40 prueba_procedimientos_camino_control_pkg 0 22 ^>`8ETSdan67k0RaKI9DB0
+R3
+R4
+R5
+R6
+R7
+Z51 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../PRUEBAS_control_indepe/prueba_camino_control.vhd
+Z52 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../PRUEBAS_control_indepe/prueba_camino_control.vhd
+l0
+L15
+VFl@D=gk59FHCQfgV18LhF1
+!s100 Xhgb<:1_Q`1G]dFgnB9P62
+R10
+33
+!i10b 1
+Z53 !s108 1553592031.868128
+Z54 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../PRUEBAS_control_indepe/prueba_camino_control.vhd|
+Z55 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../PRUEBAS_control_indepe/prueba_camino_control.vhd|
+R14
+R15
+Aprueba
+R49
+R31
+R32
+R38
+R50
+R3
+R4
+R5
+R6
+DEx4 work 21 prueba_camino_control 0 22 Fl@D=gk59FHCQfgV18LhF1
+l62
+L21
+VDnAA`m6Kmk]:k^>]jRFXd3
+!s100 SiYQULWYU7=K<B7;SRg_e1
+R10
+33
+!i10b 1
+R53
+R54
+R55
+R14
+R15
+Pprueba_procedimientos_camino_control_pkg
+R3
+R4
+R5
+R6
+R23
+R7
+Z56 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../UTILIDADES_pkg/prueba_procedimientos_camino_control.vhd
+Z57 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../UTILIDADES_pkg/prueba_procedimientos_camino_control.vhd
+l0
+L11
+V^>`8ETSdan67k0RaKI9DB0
+R10
+33
+b1
+Z58 !s108 1553592031.730967
+Z59 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../UTILIDADES_pkg/prueba_procedimientos_camino_control.vhd|
+Z60 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/ENSAMBLADO/QUARTUS_control_indepe/../UTILIDADES_pkg/prueba_procedimientos_camino_control.vhd|
+R14
+R15
+!s100 c=LYDASfLHlX0BN:0i[]=2
+!i10b 1
+Bbody
+R50
+R3
+R4
+R5
+R6
+l0
+L24
+VdQ@c@YGUm`k@7`f534M^H2
+R10
+33
+R58
+R59
+R60
+R14
+R15
+nbody
+!s100 gChkgb@4UR_zS6e<7>e0P1
+!i10b 1
+Ereg1
+Z61 w1534675090
+R2
+R5
+R6
+R7
+Z62 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/reg1.vhd
+Z63 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/reg1.vhd
+l0
+L10
+VAjMDZEYYW3]EeAldQ6EK`3
+R10
+33
+Z64 !s108 1553592030.757371
+Z65 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/reg1.vhd|
+Z66 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/reg1.vhd|
+R14
+R15
+!s100 @gcU>;lP01M7`fiXGAn`e2
+!i10b 1
+Acomportamiento
+R2
+R5
+R6
+DEx4 work 4 reg1 0 22 AjMDZEYYW3]EeAldQ6EK`3
+l17
+L16
+VH?S@f@XiRXc7m]R4Lc[7=3
+R10
+33
+R64
+R65
+R66
+R14
+R15
+!s100 jFmAY2`BU3F;Te4GVJ4^12
+!i10b 1
+Eregistro
+R61
+R2
+R5
+R6
+R7
+Z67 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/registro.vhd
+Z68 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/registro.vhd
+l0
+L10
+VL0B5`CVm9@;GEVig`BEEJ3
+R10
+33
+Z69 !s108 1553592030.870202
+Z70 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/registro.vhd|
+Z71 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/control/COMPONENTES/registros/CODIGO/registro.vhd|
+R14
+R15
+!s100 ZK[VVc73CW^6hGXnoUG]O3
+!i10b 1
+Acomportamiento
+R2
+R5
+R6
+DEx4 work 8 registro 0 22 L0B5`CVm9@;GEVig`BEEJ3
+l18
+L17
+V3XMB7eQR:O38SLhc2NE[R2
+R10
+33
+R69
+R70
+R71
+R14
+R15
+!s100 coo0Kfofm^`cY;7?8S73`2
+!i10b 1
+Pretardos_nucleo_pkg
+R5
+R6
+R30
+R7
+8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/retardos_nucleo_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/retardos_nucleo_pkg.vhd
+l0
+L9
+V:io0;H_FJlXlL?_2EKIa_2
+R10
+33
+R14
+R15
+!s100 0fE3^AI4860nBAlHfbDj63
+!i10b 1
+!s108 1553592029.766852
+!s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/retardos_nucleo_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/tipos_ctes_pkg/retardos_nucleo_pkg.vhd|
+Esumador
+R61
+R2
+R3
+R4
+R5
+R6
+R7
+Z72 8/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/Sumador/CODIGO/sumador.vhd
+Z73 F/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/Sumador/CODIGO/sumador.vhd
+l0
+L13
+VV186G9`S2z;ig14??hgRV3
+R10
+33
+Z74 !s108 1553592030.636048
+Z75 !s90 -reportprogress|300|-2008|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/Sumador/CODIGO/sumador.vhd|
+Z76 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/NUCLEO_camino/COMPONENTES/Sumador/CODIGO/sumador.vhd|
+R14
+R15
+!s100 _JGN05BZAFa?`Z7aa^OUC3
+!i10b 1
+Abehave
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 sumador 0 22 V186G9`S2z;ig14??hgRV3
+l19
+L18
+V1b?`6Xig]0Yk7[jH1KNWe0
+R10
+33
+R74
+R75
+R76
+R14
+R15
+!s100 2nWaiW9DO[k_DGe_fE1gW1
+!i10b 1

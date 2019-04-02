@@ -65,6 +65,9 @@ end process;
  
 process
 begin
+    IDL1 <= "00001";
+    IDL2 <= "01010";
+    IDE <= "10011";
   if final = false then
     reloj <= '0';
     wait for semiperiodo; 

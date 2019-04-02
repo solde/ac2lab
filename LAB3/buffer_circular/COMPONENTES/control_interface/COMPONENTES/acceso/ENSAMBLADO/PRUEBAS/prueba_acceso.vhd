@@ -49,16 +49,25 @@ begin
 	pcero <= '0';
 
 	escribir (escritura, lectura, reloj);
+	report("escritura " & integer'image(to_integer(unsigned(colaincr))));
 	escribir (escritura, lectura, reloj);
+	report("escritura " & integer'image(to_integer(unsigned(colaincr))));
 	desactivar (escritura, lectura, reloj);
+	report("desactivar " & integer'image(to_integer(unsigned(colaincr))));
 	leer (escritura,lectura, reloj);
+	report("leer " & integer'image(to_integer(unsigned(colaincr))));
 	desactivar (escritura, lectura, reloj);
+	report("desactivar " & integer'image(to_integer(unsigned(colaincr))));
 	concesclec (escritura, lectura, reloj);
+	report("concesclec " & integer'image(to_integer(unsigned(colaincr))));
 	concesclec (escritura, lectura, reloj);
-
+	report("concesclec " & integer'image(to_integer(unsigned(colaincr))));
+	
 	wait_until_falling_edges(reloj,1); 
+	report("reloj " & integer'image(to_integer(unsigned(colaincr))));
 	
 	report "Prueba finalizada.";
+	report("final " & integer'image(to_integer(unsigned(colaincr))));
 	final := true;
     wait;
 end process;

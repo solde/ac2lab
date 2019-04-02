@@ -25,7 +25,7 @@ signal t_IDL1, t_IDL2, prxIDL1, prxIDL2, t_IDE, prxIDE: st_iden;
 signal estado, prxestado: std_logic;
 signal t_finalop: std_logic;
 
-signal aux: st_iden;
+--signal aux: st_iden;
 
 begin
 
@@ -41,19 +41,23 @@ contador: registro generic map(tam => tam_secuencia)
 
 -- modifique los automatas para generar la secuencia de operaciones con dependencias
 	
+	
 IdenL1: registro generic map(tam => log_num_reg)
 			port map(reloj => reloj, e => prxIDL1, s => t_IDL1);
+	--prxIDL1 <= (others => '0');
 	prxIDL1 <= "00001";
+
 
 IdenL2: registro generic map(tam => log_num_reg)
 			port map(reloj => reloj, e => prxIDL2, s => t_IDL2);
-	prxIDL2 <="10011";
-
+	--prxIDL2 <= (others => '0');
+	prxIDL2 <= "01010";
 
 	
 IdenE: registro generic map(tam => log_num_reg)
 			port map(reloj => reloj, e => prxIDE, s => t_IDE);
-	prxIDE <="01010" ;
+	--prxIDE <= (others => '0');
+	prxIDE <= "10011";
 
 
 	t_finalop <= '0' when pcero = '1' or estado = '0' else

@@ -23,5 +23,3 @@ subtype st_iden is std_logic_vector(log_num_reg-1 downto 0);
 constant tam_secuencia: natural:= 5;
 
 end package cte_tipos_buffer_pkg;
-
-

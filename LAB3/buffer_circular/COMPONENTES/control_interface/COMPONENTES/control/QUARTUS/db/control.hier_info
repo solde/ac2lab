@@ -1,0 +1,14 @@
+|control
+cabeza[0] => ~NO_FANOUT~
+cabeza[1] => ~NO_FANOUT~
+cabeza[2] => ~NO_FANOUT~
+cola[0] => ~NO_FANOUT~
+cola[1] => ~NO_FANOUT~
+cola[2] => ~NO_FANOUT~
+colaincr[0] => ~NO_FANOUT~
+colaincr[1] => ~NO_FANOUT~
+colaincr[2] => ~NO_FANOUT~
+vacio <= <GND>
+lleno <= <GND>
+
+
