@@ -4,7 +4,7 @@ K3
 cModel Technology
 Z0 d/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/simulation/modelsim
 Econtrol
-Z1 w1554196015
+Z1 w1554197615
 Z2 DPx4 work 19 retardos_buffer_pkg 0 22 UeW]zTT`]YRXOiVW@RJJK3
 Z3 DPx4 work 20 cte_tipos_buffer_pkg 0 22 =J<N>e^O]Z^6T[M9i[HR[3
 Z4 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
@@ -20,7 +20,7 @@ L15
 VQB34UZ6La4Y?zoWCeWj`>3
 Z12 OV;C;10.1d;51
 31
-Z13 !s108 1554196039.664444
+Z13 !s108 1554197647.163440
 Z14 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/CODIGO/control.vhd|
 Z15 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/CODIGO/control.vhd|
 Z16 o-93 -work work -O0
@@ -38,7 +38,7 @@ R8
 DEx4 work 7 control 0 22 QB34UZ6La4Y?zoWCeWj`>3
 l25
 L22
-VaAfzk>L_UHnaVelS>cZed1
+VT6V9X[6<:BgHYdC50VJ3V2
 R12
 31
 R13
@@ -46,7 +46,7 @@ R14
 R15
 R16
 R17
-!s100 >6WiZzHMCmnI5ddm1If?10
+!s100 CS2mR8R8`5>lc7DSZczXo3
 !i10b 1
 Pcte_tipos_buffer_pkg
 R4
@@ -65,7 +65,7 @@ R16
 R17
 !s100 dkPGI<5KWcU;DV74V6UAF3
 !i10b 1
-!s108 1554196039.530226
+!s108 1554197647.050459
 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/cte_tipos_buffer_pkg.vhd|
 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/cte_tipos_buffer_pkg.vhd|
 Eprueba_control
@@ -85,7 +85,7 @@ V^WVgNPdb1R:EC:Xfo37A_2
 R12
 31
 !i10b 1
-Z21 !s108 1554196039.830777
+Z21 !s108 1554197647.313315
 Z22 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/../PRUEBAS/prueba_control.vhd|
 Z23 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/COMPONENTES/control_interface/COMPONENTES/control/QUARTUS/../PRUEBAS/prueba_control.vhd|
 R16
@@ -125,6 +125,6 @@ R16
 R17
 !s100 gVeBUg?J0g[XeiiHT5^P;3
 !i10b 1
-!s108 1554196039.409824
+!s108 1554197646.918258
 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/retardos_buffer_pkg.vhd|
 !s107 /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/retardos_buffer_pkg.vhd|

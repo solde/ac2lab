@@ -185,4 +185,3 @@
 # run -all
 # ** Note: Comprobacion finalizada.
 #    Time: 200 ns  Iteration: 1  Instance: /prueba_acceso
-# FATAL ERROR: Unable to read lock file necessary for use of uncounted nodelocked license. Exiting.
