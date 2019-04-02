@@ -1,5 +1,5 @@
 Analysis & Synthesis report for control
-Tue Apr  2 10:07:27 2019
+Tue Apr  2 11:07:00 2019
 Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -41,13 +41,13 @@ applicable agreement for further details.
 +--------------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Tue Apr  2 10:07:24 2019           ;
+; Analysis & Synthesis Status        ; Successful - Tue Apr  2 11:07:00 2019           ;
 ; Quartus II 32-bit Version          ; 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition ;
 ; Revision Name                      ; control                                         ;
 ; Top-level Entity Name              ; control                                         ;
 ; Family                             ; Cyclone IV GX                                   ;
-; Total logic elements               ; 0                                               ;
-;     Total combinational functions  ; 0                                               ;
+; Total logic elements               ; 5                                               ;
+;     Total combinational functions  ; 5                                               ;
 ;     Dedicated logic registers      ; 0                                               ;
 ; Total registers                    ; 0                                               ;
 ; Total pins                         ; 11                                              ;
@@ -178,10 +178,10 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +--------------------------+------------------+
 ; I/O pins                 ; 11               ;
 ; DSP block 9-bit elements ; 0                ;
-; Maximum fan-out node     ; cabeza[0]        ;
-; Maximum fan-out          ; 1                ;
-; Total fan-out            ; 11               ;
-; Average fan-out          ; 0.50             ;
+; Maximum fan-out node     ; cola[0]~input    ;
+; Maximum fan-out          ; 3                ;
+; Total fan-out            ; 29               ;
+; Average fan-out          ; 1.07             ;
 +--------------------------+------------------+
 
 
@@ -190,7 +190,7 @@ Parallel compilation was disabled, but you have multiple processors available. E
 +----------------------------+-------------------+--------------+-------------+--------------+---------+-----------+-----------+------+--------------+---------------------+--------------+
 ; Compilation Hierarchy Node ; LC Combinationals ; LC Registers ; Memory Bits ; DSP Elements ; DSP 9x9 ; DSP 18x18 ; DSP 36x36 ; Pins ; Virtual Pins ; Full Hierarchy Name ; Library Name ;
 +----------------------------+-------------------+--------------+-------------+--------------+---------+-----------+-----------+------+--------------+---------------------+--------------+
-; |control                   ; 0 (0)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0         ; 11   ; 0            ; |control            ; work         ;
+; |control                   ; 5 (5)             ; 0 (0)        ; 0           ; 0            ; 0       ; 0         ; 0         ; 11   ; 0            ; |control            ; work         ;
 +----------------------------+-------------------+--------------+-------------+--------------+---------+-----------+-----------+------+--------------+---------------------+--------------+
 Note: For table entries with two numbers listed, the numbers in parentheses indicate the number of resources of the given type used by the specific entity alone. The numbers listed outside of parentheses indicate the total resources of the given type used by the specific entity and all of its sub-entities in the hierarchy.
 
@@ -225,7 +225,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus II 32-bit Analysis & Synthesis
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Tue Apr  2 10:07:13 2019
+    Info: Processing started: Tue Apr  2 11:06:58 2019
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off control -c control
 Warning (20028): Parallel compilation is not licensed and has been disabled
 Info (12021): Found 1 design units, including 0 entities, in source file /dades/david.soldevila.puigbi/aclab/LAB3/buffer_circular/tipos_ctes_pkg/retardos_buffer_pkg.vhd
@@ -236,28 +236,21 @@ Info (12021): Found 2 design units, including 1 entities, in source file /dades/
     Info (12022): Found design unit 1: control-compor
     Info (12023): Found entity 1: control
 Info (12127): Elaborating entity "control" for the top level hierarchy
-Warning (13024): Output pins are stuck at VCC or GND
-    Warning (13410): Pin "vacio" is stuck at GND
-    Warning (13410): Pin "lleno" is stuck at GND
+Info (286030): Timing-Driven Synthesis is running
 Info (16010): Generating hard_block partition "hard_block:auto_generated_inst"
     Info (16011): Adding 0 node(s), including 0 DDIO, 0 PLL, 0 transceiver and 0 LCELL
-Warning (21074): Design contains 9 input pin(s) that do not drive logic
-    Warning (15610): No output dependent on input pin "cabeza[0]"
-    Warning (15610): No output dependent on input pin "cabeza[1]"
-    Warning (15610): No output dependent on input pin "cabeza[2]"
-    Warning (15610): No output dependent on input pin "cola[0]"
-    Warning (15610): No output dependent on input pin "cola[1]"
-    Warning (15610): No output dependent on input pin "cola[2]"
+Warning (21074): Design contains 3 input pin(s) that do not drive logic
     Warning (15610): No output dependent on input pin "colaincr[0]"
     Warning (15610): No output dependent on input pin "colaincr[1]"
     Warning (15610): No output dependent on input pin "colaincr[2]"
-Info (21057): Implemented 11 device resources after synthesis - the final resource count might be different
+Info (21057): Implemented 16 device resources after synthesis - the final resource count might be different
     Info (21058): Implemented 9 input pins
     Info (21059): Implemented 2 output pins
-Info: Quartus II 32-bit Analysis & Synthesis was successful. 0 errors, 14 warnings
+    Info (21061): Implemented 5 logic cells
+Info: Quartus II 32-bit Analysis & Synthesis was successful. 0 errors, 5 warnings
     Info: Peak virtual memory: 394 megabytes
-    Info: Processing ended: Tue Apr  2 10:07:27 2019
-    Info: Elapsed time: 00:00:14
+    Info: Processing ended: Tue Apr  2 11:07:00 2019
+    Info: Elapsed time: 00:00:02
     Info: Total CPU time (on all processors): 00:00:02
 
 

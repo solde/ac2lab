@@ -1,14 +1,32 @@
 |control
-cabeza[0] => ~NO_FANOUT~
-cabeza[1] => ~NO_FANOUT~
-cabeza[2] => ~NO_FANOUT~
-cola[0] => ~NO_FANOUT~
-cola[1] => ~NO_FANOUT~
-cola[2] => ~NO_FANOUT~
+cabeza[0] => Equal0.IN2
+cabeza[0] => Add0.IN6
+cabeza[0] => Add1.IN6
+cabeza[0] => Equal3.IN9
+cabeza[1] => Equal0.IN1
+cabeza[1] => Add0.IN5
+cabeza[1] => Add1.IN5
+cabeza[1] => Equal3.IN8
+cabeza[2] => Equal0.IN0
+cabeza[2] => Add0.IN4
+cabeza[2] => Add1.IN4
+cabeza[2] => Equal3.IN7
+cola[0] => Equal0.IN5
+cola[0] => Equal1.IN9
+cola[0] => Equal2.IN9
+cola[0] => Add2.IN6
+cola[1] => Equal0.IN4
+cola[1] => Equal1.IN8
+cola[1] => Equal2.IN8
+cola[1] => Add2.IN5
+cola[2] => Equal0.IN3
+cola[2] => Equal1.IN7
+cola[2] => Equal2.IN7
+cola[2] => Add2.IN4
 colaincr[0] => ~NO_FANOUT~
 colaincr[1] => ~NO_FANOUT~
 colaincr[2] => ~NO_FANOUT~
-vacio <= <GND>
-lleno <= <GND>
+vacio <= Equal0.DB_MAX_OUTPUT_PORT_TYPE
+lleno <= lleno.DB_MAX_OUTPUT_PORT_TYPE
 
 

@@ -24,9 +24,8 @@ architecture estruc of acceso is
 begin
 -- instantaciones punteros cola y cabeza
 
-	cabeza <= (others => '0');
-	cola <= (others => '0');
+	reg_cola: puntero port map (reloj => reloj, pcero => pcero, condicion => escritura, punt => cola);
+	reg_cabeza: puntero port map (reloj => reloj, pcero => pcero, condicion => lectura, punt => cabeza);
+	PE <= escritura;
 
-	PE <= escritura;
-				
 end;
