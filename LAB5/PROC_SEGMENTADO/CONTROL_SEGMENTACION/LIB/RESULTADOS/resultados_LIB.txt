@@ -1,0 +1,219 @@
+Cicle; Dep L1_AMFE L2_AMFE; RD_RS; bCP_bBDL_iBDL_iDLA
+sortides esperades, instruccions DL ALU M F ES
+
+2   0000 0000 00 0100      add x3 , x1 , x2      addi x0 , x0 , x000     XXX     XXX     XXX
+esp 0000 0000 00 0000 
+ error LIB
+
+3   1000 0000 00 0100      add x11, x3 , x10      add x3 , x1 , x2      addi x0 , x0 , x000     XXX     XXX
+esp 1XXX 0000 10 1101 
+ error LIB
+
+4   0100 0000 00 0100      add x11, x3 , x10     addi x0 , x0 , x000     add x3 , x1 , x2      addi x0 , x0 , x000     XXX
+esp 01XX 0000 10 1101 
+ error LIB
+
+5   0010 0000 00 0100      add x11, x3 , x10     addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2      addi x0 , x0 , x000
+esp 001X 0000 10 1101 
+ error LIB
+
+6   0001 0000 00 0100      add x11, x3 , x10     addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2  
+esp 0001 0000 10 1101 
+ error LIB
+
+7   0000 0000 00 0100      add x11, x3 , x10     addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+8   0000 0000 00 0100      add x3 , x1 , x2       add x11, x3 , x10     addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+9   0000 1000 00 0100      add x11, x10, x3       add x3 , x1 , x2       add x11, x3 , x10     addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 1XXX 10 1101 
+ error LIB
+
+10  0000 0100 00 0100      add x11, x10, x3      addi x0 , x0 , x000     add x3 , x1 , x2       add x11, x3 , x10     addi x0 , x0 , x000
+esp 0000 01XX 10 1101 
+ error LIB
+
+11  0000 0010 00 0100      add x11, x10, x3      addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2       add x11, x3 , x10 
+esp 0000 001X 10 1101 
+ error LIB
+
+12  0000 0001 00 0100      add x11, x10, x3      addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2  
+esp 0000 0001 10 1101 
+ error LIB
+
+13  0000 0000 00 0100      add x11, x10, x3      addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+14  0000 0000 00 0100      add x0 , x1 , x2       add x11, x10, x3      addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+15  1000 0000 00 0100      add x0 , x0 , x10      add x0 , x1 , x2       add x11, x10, x3      addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+16  1100 0000 00 0100      add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x1 , x2       add x11, x10, x3      addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+17  1110 0000 00 0100      add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x1 , x2       add x11, x10, x3  
+esp 0000 0000 00 0000 
+ error LIB
+
+18  1111 0000 00 0100      add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x1 , x2  
+esp 0000 0000 00 0000 
+ error LIB
+
+19  0000 0000 00 0100      add x0 , x1 , x2       add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x0 , x10 
+esp 0000 0000 00 0000 
+ error LIB
+
+20  0000 1111 00 0100      add x0 , x10, x0       add x0 , x1 , x2       add x0 , x0 , x10      add x0 , x0 , x10      add x0 , x0 , x10 
+esp 0000 0000 00 0000 
+ error LIB
+
+21  0000 1111 00 0100      add x0 , x10, x0       add x0 , x10, x0       add x0 , x1 , x2       add x0 , x0 , x10      add x0 , x0 , x10 
+esp 0000 0000 00 0000 
+ error LIB
+
+22  0000 1111 00 0100      add x0 , x10, x0       add x0 , x10, x0       add x0 , x10, x0       add x0 , x1 , x2       add x0 , x0 , x10 
+esp 0000 0000 00 0000 
+ error LIB
+
+23  0000 1111 00 0100      add x0 , x10, x0       add x0 , x10, x0       add x0 , x10, x0       add x0 , x10, x0       add x0 , x1 , x2  
+esp 0000 0000 00 0000 
+ error LIB
+
+24  0000 0000 00 0100      add x3 , x1 , x2       add x0 , x10, x0       add x0 , x10, x0       add x0 , x10, x0       add x0 , x10, x0  
+esp 0000 0000 00 0000 
+ error LIB
+
+25  0000 1000 01 1010      beq x17, x3 , x00B     add x3 , x1 , x2       add x0 , x10, x0       add x0 , x10, x0       add x0 , x10, x0  
+esp 0000 1XXX 11 1101 
+ error LIB
+
+26  0000 0100 01 1010      beq x17, x3 , x00B    addi x0 , x0 , x000     add x3 , x1 , x2       add x0 , x10, x0       add x0 , x10, x0  
+esp 0000 01XX 11 1101 
+ error LIB
+
+27  0000 0010 01 1010      beq x17, x3 , x00B    addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2       add x0 , x10, x0  
+esp 0000 001X 11 1101 
+ error LIB
+
+28  0000 0001 01 1010      beq x17, x3 , x00B    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2  
+esp 0000 0001 11 1101 
+ error LIB
+
+29  0000 0000 01 1010      beq x17, x3 , x00B    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 01 0010 
+ error LIB
+
+30  0000 0000 01 1010     addi x0 , x0 , x000     beq x17, x3 , x00B    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 01 0010 
+ error LIB
+
+31  1000 0000 00 0100     addi x0 , x0 , x000    addi x0 , x0 , x000     beq x17, x3 , x00B    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+32  0000 0000 00 0100      add x3 , x1 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000     beq x17, x3 , x00B    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+33  1000 0000 01 1010      beq x3 , x17, x00B     add x3 , x1 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000     beq x17, x3 , x00B
+esp 1XXX 0000 11 1101 
+ error LIB
+
+34  0100 0000 01 1010      beq x3 , x17, x00B    addi x0 , x0 , x000     add x3 , x1 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 01XX 0000 11 1101 
+ error LIB
+
+35  0010 0000 01 1010      beq x3 , x17, x00B    addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2      addi x0 , x0 , x000
+esp 001X 0000 11 1101 
+ error LIB
+
+36  0001 0000 01 1010      beq x3 , x17, x00B    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000     add x3 , x1 , x2  
+esp 0001 0000 11 1101 
+ error LIB
+
+37  0000 0000 01 1010      beq x3 , x17, x00B    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 01 0010 
+ error LIB
+
+38  0000 0000 01 1010     addi x0 , x0 , x000     beq x3 , x17, x00B    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 01 0010 
+ error LIB
+
+39  1000 0000 00 0100     addi x0 , x0 , x000    addi x0 , x0 , x000     beq x3 , x17, x00B    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+40  0000 0000 00 0100       lw x1 , x000(x2 )    addi x0 , x0 , x000    addi x0 , x0 , x000     beq x3 , x17, x00B    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+41  1000 0000 01 1010     jalr x3 , x000(x1 )      lw x1 , x000(x2 )    addi x0 , x0 , x000    addi x0 , x0 , x000     beq x3 , x17, x00B
+esp 1XXX 0000 11 1101 
+ error LIB
+
+42  0100 0000 01 1010     jalr x3 , x000(x1 )    addi x0 , x0 , x000      lw x1 , x000(x2 )    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 01XX 0000 11 1101 
+ error LIB
+
+43  0010 0000 01 1010     jalr x3 , x000(x1 )    addi x0 , x0 , x000    addi x0 , x0 , x000      lw x1 , x000(x2 )    addi x0 , x0 , x000
+esp 001X 0000 11 1101 
+ error LIB
+
+44  0001 0000 01 1010     jalr x3 , x000(x1 )    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000      lw x1 , x000(x2 )
+esp 0001 0000 11 1101 
+ error LIB
+
+45  0000 0000 01 1010     jalr x3 , x000(x1 )    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 01 0010 
+ error LIB
+
+46  0000 0000 01 1010     addi x0 , x0 , x000    jalr x3 , x000(x1 )    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 01 0010 
+ error LIB
+
+47  1000 0000 00 0100     addi x0 , x0 , x000    addi x0 , x0 , x000    jalr x3 , x000(x1 )    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+48  0010 0000 00 0100      add x1 , x3 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000    jalr x3 , x000(x1 )    addi x0 , x0 , x000
+esp 001X 0000 10 1101 
+ error LIB
+
+49  0001 0000 00 0100      add x1 , x3 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000    jalr x3 , x000(x1 )
+esp 0001 0000 10 1101 
+ error LIB
+
+50  0000 0000 00 0100      add x1 , x3 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+51  0000 0000 00 0100           ebreak            add x1 , x3 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+52  0000 0000 00 0100           ebreak                 ebreak            add x1 , x3 , x2      addi x0 , x0 , x000    addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+53  0000 0000 00 0100           ebreak                 ebreak                 ebreak            add x1 , x3 , x2      addi x0 , x0 , x000
+esp 0000 0000 00 0000 
+ error LIB
+
+54  0000 0000 00 0100           ebreak                 ebreak                 ebreak                 ebreak            add x1 , x3 , x2  
+esp 0000 0000 00 0000 
+ error LIB
+
+55  0000 0000 00 0100           ebreak                 ebreak                 ebreak                 ebreak                 ebreak       
+esp 0000 0000 00 0000 
+ error LIB
+

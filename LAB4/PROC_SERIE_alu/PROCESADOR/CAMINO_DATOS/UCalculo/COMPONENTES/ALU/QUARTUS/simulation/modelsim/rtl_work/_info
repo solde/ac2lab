@@ -1,0 +1,455 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/simulation/modelsim
+Ealu
+Z1 w1553856413
+Z2 DPx4 work 19 componentes_alu_pkg 0 22 GM7O?lk=50Y2:]UiOiWLm1
+Z3 DPx4 work 12 retardos_pkg 0 22 fETc?bEQY_h3MOmQ85?^_0
+Z4 DPx4 work 22 riscv32_coop_funct_pkg 0 22 ;5Xo@eC]DBCLkHZ^SI_gG3
+Z5 DPx4 work 16 cte_tipos_uf_pkg 0 22 kdDRDaT`aV2L?W5`5:=Ef2
+Z6 DPx4 work 17 param_disenyo_pkg 0 22 dQO[:VbkRS]1;1_96^i:H0
+Z7 DPx4 work 25 cte_tipos_deco_camino_pkg 0 22 0W_zZKZK36N7jZ6Pi;B8[0
+Z8 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z9 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z10 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z11 d/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/simulation/modelsim
+Z12 8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd
+Z13 F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd
+l0
+L16
+VCgW3B4z876;XL[_NklEWR2
+Z14 OV;C;10.1d;51
+31
+Z15 !s108 1556013762.659974
+Z16 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd|
+Z17 !s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/alu.vhd|
+Z18 o-93 -work work -O0
+Z19 tExplicit 1
+!s100 jFFl>laQRh>`D`J^L6OLO0
+!i10b 1
+Aestruct
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 3 alu 0 22 CgW3B4z876;XL[_NklEWR2
+l31
+L23
+VM_O_fzd=JOeSbLH9XNRT21
+R14
+31
+R15
+R16
+R17
+R18
+R19
+!s100 ?d@7SCk@Z4j[n2jVD552f1
+!i10b 1
+Ealu_ref
+Z20 w1553167297
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z21 8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/alu_ref.vhd
+Z22 F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/alu_ref.vhd
+l0
+L15
+VAfL39`APBNgF]6:]^k@Z32
+R14
+31
+Z23 !s108 1556013763.433448
+Z24 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/alu_ref.vhd|
+Z25 !s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/alu_ref.vhd|
+R18
+R19
+!s100 S5hmGQ^?KD]bgYEnZj?no3
+!i10b 1
+Acompor
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 7 alu_ref 0 22 AfL39`APBNgF]6:]^k@Z32
+l24
+L22
+VHGOY^FbETZjh2_6Pz[LXV2
+R14
+31
+R23
+R24
+R25
+R18
+R19
+!s100 nAlnL1b=PhBL__D]MieWg1
+!i10b 1
+Pcomponentes_alu_pkg
+R8
+R7
+R6
+R9
+R10
+w1553445705
+R11
+8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/componentes_ALU_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/componentes_ALU_pkg.vhd
+l0
+L12
+VGM7O?lk=50Y2:]UiOiWLm1
+R14
+31
+R18
+R19
+!s100 cRIWZD<N0GjBVdajRFR@G2
+!i10b 1
+!s108 1556013762.530660
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/componentes_ALU_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/componentes_ALU_pkg.vhd|
+Pcte_tipos_deco_camino_pkg
+R8
+R9
+R10
+Z26 w1534675090
+R11
+8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd
+l0
+L10
+V0W_zZKZK36N7jZ6Pi;B8[0
+R14
+31
+R18
+R19
+!s100 Li7eIK`5hVC>IcZ;5;B9d2
+!i10b 1
+!s108 1556013762.229369
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_deco_camino_pkg.vhd|
+Pcte_tipos_uf_pkg
+R4
+R8
+R7
+R9
+R10
+R26
+R11
+8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd
+l0
+L12
+VkdDRDaT`aV2L?W5`5:=Ef2
+R14
+31
+R18
+R19
+!s100 P^M^710HLOX12LT2A3=fj0
+!i10b 1
+!s108 1556013762.409800
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/cte_tipos_UF_pkg.vhd|
+Edespla
+R26
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z27 8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/despla.vhd
+Z28 F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/despla.vhd
+l0
+L15
+V@V?gQUQ?CF01]oDhYEG5U1
+R14
+31
+Z29 !s108 1556013762.813361
+Z30 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/despla.vhd|
+Z31 !s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/despla.vhd|
+R18
+R19
+!s100 C>;HFmF>bYSDNNzBFF5?>0
+!i10b 1
+Acompor
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 6 despla 0 22 @V?gQUQ?CF01]oDhYEG5U1
+l24
+L22
+V[Rk3dhAAX2nzDYMRZed`?3
+R14
+31
+R29
+R30
+R31
+R18
+R19
+!s100 [;7aIc6TN9U0fHE9j]PC62
+!i10b 1
+Elogica
+R26
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z32 8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/logica.vhd
+Z33 F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/logica.vhd
+l0
+L15
+V7`1NRdDCBG^BFcAbAnCUg3
+R14
+31
+Z34 !s108 1556013762.949014
+Z35 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/logica.vhd|
+Z36 !s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/logica.vhd|
+R18
+R19
+!s100 egEz];db^[0_A[E[ERPW80
+!i10b 1
+Acompor
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 6 logica 0 22 7`1NRdDCBG^BFcAbAnCUg3
+l24
+L22
+VRiFWnMK8K<bf@WoFMKT[G0
+R14
+31
+R34
+R35
+R36
+R18
+R19
+!s100 Xo5M7lj<B0QF^NO;fXFHe2
+!i10b 1
+Pparam_disenyo_pkg
+R9
+R10
+R26
+R11
+8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd
+l0
+L9
+VdQO[:VbkRS]1;1_96^i:H0
+R14
+31
+R18
+R19
+!s100 3R_1M]JfV9Cjd@Th67g]o0
+!i10b 1
+!s108 1556013762.123587
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/param_disenyo_pkg.vhd|
+Eprueba_alu
+Z37 w1553856805
+R4
+R7
+R5
+R6
+R8
+R9
+R10
+R11
+Z38 8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/prueba_alu.vhd
+Z39 F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/prueba_alu.vhd
+l0
+L11
+V[XYe?Va[1IT0IMcKUom<Z1
+!s100 `Z8P4Yhl>]UbjzggNRNNT0
+R14
+31
+!i10b 1
+Z40 !s108 1556013763.665203
+Z41 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/prueba_alu.vhd|
+Z42 !s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/QUARTUS/../PRUEBAS/prueba_alu.vhd|
+R18
+R19
+Aprueba
+R4
+R7
+R5
+R6
+R8
+R9
+R10
+DEx4 work 10 prueba_alu 0 22 [XYe?Va[1IT0IMcKUom<Z1
+l46
+L14
+VLSUiCVLBVZG5^a1V?jaQ=0
+!s100 jVWo[Z>:`VE04SMhH^8Y@1
+R14
+31
+!i10b 1
+R40
+R41
+R42
+R18
+R19
+Pretardos_pkg
+R9
+R10
+w1547656540
+R11
+8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd
+l0
+L9
+VfETc?bEQY_h3MOmQ85?^_0
+R14
+31
+R18
+R19
+!s100 RT:1ejKh58bXFMoB?Ch;z1
+!i10b 1
+!s108 1556013761.999160
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/retardos_pkg.vhd|
+Priscv32_coop_funct_pkg
+R9
+R10
+R26
+R11
+8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd
+F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd
+l0
+L9
+V;5Xo@eC]DBCLkHZ^SI_gG3
+R14
+31
+R18
+R19
+!s100 jD0FZXWb2O>Y@61fTR4?R1
+!i10b 1
+!s108 1556013761.807322
+!s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd|
+!s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE/tipos_constantes_pkg/riscv32_coop_funct_pkg.vhd|
+Eslt
+R26
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z43 8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/slt.vhd
+Z44 F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/slt.vhd
+l0
+L15
+Vd35Hgg>D16Z@<oT]XBJoA1
+R14
+31
+Z45 !s108 1556013763.221558
+Z46 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/slt.vhd|
+Z47 !s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/slt.vhd|
+R18
+R19
+!s100 ;EA:o]W_4L>5^a_9jdkn]3
+!i10b 1
+Acompor
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 3 slt 0 22 d35Hgg>D16Z@<oT]XBJoA1
+l22
+L20
+V>;FVXPXUR6ZXf_ghMPN`o3
+R14
+31
+R45
+R46
+R47
+R18
+R19
+!s100 cl]=JOLNMk]_?kINf3Iz22
+!i10b 1
+Esumalg
+Z48 w1556013727
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+Z49 8/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/sumalg.vhd
+Z50 F/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/sumalg.vhd
+l0
+L16
+V8VoT>=ij3XjTJzC=JzGWb3
+R14
+31
+Z51 !s108 1556013763.086239
+Z52 !s90 -reportprogress|300|-93|-work|work|/dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/sumalg.vhd|
+Z53 !s107 /dades/david.soldevila.puigbi/aclab/LAB4/PROC_SERIE_alu/PROCESADOR/CAMINO_DATOS/UCalculo/COMPONENTES/ALU/CODIGO/sumalg.vhd|
+R18
+R19
+!s100 jWbEEJ`MzNmfT5B:jHZhC2
+!i10b 1
+Acompor
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 6 sumalg 0 22 8VoT>=ij3XjTJzC=JzGWb3
+l30
+L24
+VMYYDXlGEPHlV<BPaR_Ef72
+R14
+31
+R51
+R52
+R53
+R18
+R19
+!s100 1LF02PQc7N>l=]6d>bDal0
+!i10b 1
